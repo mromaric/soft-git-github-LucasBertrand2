@@ -2,7 +2,7 @@
 ## EPITECH PROJECT, 2022
 ## Makefile
 ## File description:
-## Makefile
+## Makefile de lulu
 ##
 
 SRC_DIR		=	src/
